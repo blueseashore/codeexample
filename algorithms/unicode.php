@@ -69,7 +69,7 @@ function calPow($num = 0, $base = 2)
 }
 
 /**
- * 十进制转二进制
+ * 10进制转二进制
  * @param int $num
  * @return string
  */
@@ -89,6 +89,11 @@ function to2($num = 0)
 
 echo '二进制:', to2($argv[1]), PHP_EOL;
 
+/**
+ * 10进制转4进制
+ * @param int $num
+ * @return string
+ */
 function to4($num = 0)
 {
     $data = [];
@@ -110,6 +115,12 @@ function to4($num = 0)
 
 echo '四进制:', to4($argv[1]), PHP_EOL;
 
+/**
+ * 10进制转8进制
+ * @param int $num
+ * @param int $len
+ * @return string
+ */
 function to8($num = 0, $len = 8)
 {
     $data = [];
