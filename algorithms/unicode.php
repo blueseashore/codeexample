@@ -113,6 +113,42 @@ function toN($num = 0, $base = 2, $toA = FALSE)
     return join('', $data);
 }
 
+function saveUserCommendCode($userId = 0)
+{
+    $data = [];
+    /**
+     * 零次方情况
+     * 非零次方情况
+     */
+    $num = $userId+10000;
+    $powNum = 0;
+
+    while ($num >= pow(26, $powNum)) {
+        ++$powNum;
+    }
+    for ($i = $powNum; $i >= 0; $i--) {
+        for ($j = 25; $j >= 0; $j--) {
+            if ($num >= $j * pow(26, $i)) {
+                $data[] = chr(65 + $j);
+                $num -= $j * pow(26, $i);
+                break;
+            }
+        }
+    }
+
+    return join('', $data);
+}
+//echo toN($num, $base), PHP_EOL;
+$list = [];
+for ($i = 1; $i < 100000; $i++) {
+
+
+//    $outPut = toN($i, 26, TRUE);
+    $outPut = saveUserCommendCode($i);
+    $list[$outPut] = $outPut;
+    echo $i, ':', $outPut, PHP_EOL;
+}
+echo count($list);die;
 /**
  * 10进制转二进制
  * @param int $num
