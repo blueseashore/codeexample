@@ -12,6 +12,9 @@ if ($redis->connect('127.0.0.1', 6379, 1)) {
 } else {
     exit('连接Redis服务器失败...' . $redis->getLastError() . PHP_EOL);
 }
+
+$redis->geoadd();
+
 /*
     $redis->connect('127.0.0.1', 6379, 1)
     $redis->open('127.0.0.1', 6379, 1);   //短链接（同上）

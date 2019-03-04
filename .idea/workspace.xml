@@ -2,20 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f8ba42e-fb14-4785-a01e-60be3b20a621" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/a.ini" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/alidayu/api/config/api.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/craw/72qier.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/craw/craw.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/designPatterns/AbstractFactory/AbstractFactory.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/designPatterns/AbstractFactory/HtmlFactory.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/designPatterns/AbstractFactory/HtmlText.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/designPatterns/AbstractFactory/JsonFactory.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/designPatterns/AbstractFactory/JsonText.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/designPatterns/AbstractFactory/Test.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/designPatterns/AbstractFactory/Text.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/exception/level.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/Node.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/demo.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/demo1.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/demo2.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/demo3.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/demo4.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/demo5.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/demo6.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/demo7.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/demo8.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/demo860.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/liaotianshi/chat.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/liaotianshi/client.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/liaotianshi/from.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/liaotianshi/to.html" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeexample.iml" afterPath="$PROJECT_DIR$/.idea/codeexample.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/php.xml" afterPath="$PROJECT_DIR$/.idea/php.xml" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/algorithms/unicode.php" afterPath="$PROJECT_DIR$/algorithms/unicode.php" />
-      <change beforePath="$PROJECT_DIR$/cache/RedisCluster.php" afterPath="$PROJECT_DIR$/cache/RedisCluster.php" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/cache/redis.php" afterPath="$PROJECT_DIR$/cache/redis.php" />
-      <change beforePath="$PROJECT_DIR$/class_attr.php" afterPath="$PROJECT_DIR$/class_attr.php" />
-      <change beforePath="$PROJECT_DIR$/debug/xdebug.php" afterPath="$PROJECT_DIR$/debug/xdebug.php" />
-      <change beforePath="$PROJECT_DIR$/oo.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/preg.php" afterPath="$PROJECT_DIR$/preg.php" />
-      <change beforePath="$PROJECT_DIR$/swoole/server.php" afterPath="$PROJECT_DIR$/swoole/server.php" />
+      <change beforePath="$PROJECT_DIR$/sort.php" afterPath="$PROJECT_DIR$/sort.php" />
       <change beforePath="$PROJECT_DIR$/test.php" afterPath="$PROJECT_DIR$/test.php" />
-      <change beforePath="$PROJECT_DIR$/test2.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/xml.php" afterPath="$PROJECT_DIR$/xml.php" />
-      <change beforePath="$PROJECT_DIR$/xy.php" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,6 +42,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true">
+    <pharConfigPath>$PROJECT_DIR$/PHP-Parser/composer.json</pharConfigPath>
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -41,119 +63,122 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="memcached.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cache/memcached.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="xml.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xml.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2244">
-              <caret line="102" column="32" lean-forward="false" selection-start-line="102" selection-start-column="32" selection-end-line="102" selection-end-column="32" />
-              <folding>
-                <marker date="1519968460416" expanded="true" signature="153:3335" ph="..." />
-                <marker date="1519968460416" expanded="true" signature="310:3314" ph="..." />
-                <marker date="1519968460416" expanded="true" signature="322:3298" ph="..." />
-                <marker date="1519968460416" expanded="true" signature="535:773" ph="..." />
-                <marker date="1519968460416" expanded="true" signature="797:1394" ph="..." />
-                <marker date="1519968460416" expanded="true" signature="816:1039" ph="..." />
-                <marker date="1519968460416" expanded="true" signature="1072:1290" ph="..." />
-                <marker date="1519968460416" expanded="true" signature="1572:2010" ph="..." />
-                <marker date="1519968460416" expanded="true" signature="2174:3234" ph="..." />
-                <marker date="1519968460416" expanded="true" signature="2196:2691" ph="..." />
-                <marker date="1519968460416" expanded="true" signature="2214:2288" ph="..." />
-                <marker date="1519968460416" expanded="true" signature="2316:2428" ph="..." />
-                <marker date="1519968460416" expanded="true" signature="2445:2505" ph="..." />
-                <marker date="1519968460416" expanded="true" signature="2713:3208" ph="..." />
-                <marker date="1519968460416" expanded="true" signature="2731:2805" ph="..." />
-                <marker date="1519968460416" expanded="true" signature="2833:2945" ph="..." />
-                <marker date="1519968460416" expanded="true" signature="2962:3022" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="23" column="23" lean-forward="false" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="xdebug.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/debug/xdebug.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="queue.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cache/queue.php">
+      <file leaf-file-name="demo4.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/demo4.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="286">
-              <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+              <caret line="13" column="2" lean-forward="false" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RedisCluster.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cache/RedisCluster.php">
+      <file leaf-file-name="demo3.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/demo3.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+            <state relative-caret-position="-375">
+              <caret line="1" column="3" lean-forward="false" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+              <folding>
+                <element signature="e#6#372#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo1.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/demo1.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="42" column="18" lean-forward="false" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+              <folding>
+                <element signature="n#Solution#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo2.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/demo2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="139">
+              <caret line="23" column="17" lean-forward="false" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+              <folding>
+                <element signature="e#6#294#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo5.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/demo5.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="2" lean-forward="false" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="redis.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cache/redis.php">
+      <file leaf-file-name="demo6.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/demo6.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="27" column="16" lean-forward="false" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+            <state relative-caret-position="132">
+              <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo7.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/demo7.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sort.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sort.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-319">
+              <caret line="38" column="3" lean-forward="true" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo8.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/demo8.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" column="3" lean-forward="false" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
               <folding>
-                <element signature="e#7#40#0#PHP" expanded="true" />
+                <element signature="e#6#1046#0#PHP" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="unicode.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/algorithms/unicode.php">
+      <file leaf-file-name="Node.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/Node.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="117" column="21" lean-forward="false" selection-start-line="117" selection-start-column="21" selection-end-line="117" selection-end-column="21" />
-              <folding>
-                <element signature="e#7#215#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RedisCluster.php" pinned="false" current-in-tab="false">
-        <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/redis/RedisCluster.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2134">
-              <caret line="97" column="7" lean-forward="false" selection-start-line="97" selection-start-column="7" selection-end-line="97" selection-end-column="7" />
+            <state relative-caret-position="-652">
+              <caret line="19" column="3" lean-forward="false" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -163,9 +188,36 @@
       <find>$persistent</find>
       <find>26</find>
       <find>二进制:</find>
+      <find>BubbleSort</find>
+      <find>/static/images/jp_btn.png</find>
+      <find>9502</find>
+      <find>send(</find>
+      <find>init</find>
+      <find>127.0.0.1</find>
+      <find>$row</find>
+      <find>shengxi.</find>
+      <find>$insertThird</find>
+      <find>false</find>
+      <find>mysqli_affected_rows</find>
+      <find>third</find>
+      <find>refle</find>
+      <find>img</find>
+      <find>192</find>
+      <find>thirdw</find>
+      <find>thirdwx</find>
+      <find>preg_match_all</find>
+      <find>27</find>
+      <find>70</find>
+      <find>自不量力</find>
+      <find>qTcms_pic</find>
+      <find>statics</find>
+      <find>原始数组队列</find>
     </findStrings>
     <replaceStrings>
       <replace>$num</replace>
+      <replace>192.168.31.100</replace>
+      <replace>byebyetext.</replace>
+      <replace>voice.</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -174,16 +226,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/soap/server.php" />
-        <option value="$PROJECT_DIR$/soap/client.php" />
-        <option value="$PROJECT_DIR$/tree/tree.php" />
-        <option value="$PROJECT_DIR$/tree/oo.php" />
-        <option value="$PROJECT_DIR$/cache/memcache_queue.php" />
-        <option value="$PROJECT_DIR$/cache/queue.php" />
-        <option value="$PROJECT_DIR$/preg.php" />
         <option value="$PROJECT_DIR$/class_attr.php" />
         <option value="$PROJECT_DIR$/xml.php" />
-        <option value="$PROJECT_DIR$/test.php" />
         <option value="$PROJECT_DIR$/debug/xdebug.php" />
         <option value="$PROJECT_DIR$/cache/redis2.php" />
         <option value="$PROJECT_DIR$/swoole/server.php" />
@@ -194,8 +238,45 @@
         <option value="$PROJECT_DIR$/cache/opcache.php" />
         <option value="$PROJECT_DIR$/cache/apcu.php" />
         <option value="$PROJECT_DIR$/cache/RedisCluster.php" />
-        <option value="$PROJECT_DIR$/cache/redis.php" />
         <option value="$PROJECT_DIR$/algorithms/unicode.php" />
+        <option value="$PROJECT_DIR$/sort/bubbleSort.php" />
+        <option value="$PROJECT_DIR$/exception/level.php" />
+        <option value="$PROJECT_DIR$/cache/redis.php" />
+        <option value="$PROJECT_DIR$/cache/chat_html.html" />
+        <option value="$PROJECT_DIR$/cache/chat.php" />
+        <option value="$PROJECT_DIR$/alidayu/composer.json" />
+        <option value="$PROJECT_DIR$/alidayu/api/config/api.php" />
+        <option value="$PROJECT_DIR$/alidayu/api/demo/SmsDemo.php" />
+        <option value="$PROJECT_DIR$/craw/craw.py" />
+        <option value="$PROJECT_DIR$/designPatterns/AbstractFactory.php" />
+        <option value="$PROJECT_DIR$/designPatterns/AbstractFactory/AbstractFactory.php" />
+        <option value="$PROJECT_DIR$/designPatterns/AbstractFactory/JsonFactory.php" />
+        <option value="$PROJECT_DIR$/designPatterns/AbstractFactory/HtmlFactory.php" />
+        <option value="$PROJECT_DIR$/designPatterns/AbstractFactory/Text.php" />
+        <option value="$PROJECT_DIR$/designPatterns/AbstractFactory/JsonText.php" />
+        <option value="$PROJECT_DIR$/designPatterns/AbstractFactory/HtmlText.php" />
+        <option value="$PROJECT_DIR$/designPatterns/AbstractFactory/Test.php" />
+        <option value="$PROJECT_DIR$/liaotianshi/chat.php" />
+        <option value="$PROJECT_DIR$/liaotianshi/from.html" />
+        <option value="$PROJECT_DIR$/liaotianshi/client.php" />
+        <option value="$PROJECT_DIR$/liaotianshi/to.html" />
+        <option value="$PROJECT_DIR$/craw/a" />
+        <option value="$PROJECT_DIR$/craw/72qier.php" />
+        <option value="$PROJECT_DIR$/leetcode/demo1.php" />
+        <option value="$PROJECT_DIR$/leetcode/Node.php" />
+        <option value="$PROJECT_DIR$/leetcode/demo2.php" />
+        <option value="$PROJECT_DIR$/leetcode/demo3.php" />
+        <option value="$PROJECT_DIR$/leetcode/demo.php" />
+        <option value="$PROJECT_DIR$/tree/a.ini" />
+        <option value="$PROJECT_DIR$/a.ini" />
+        <option value="$PROJECT_DIR$/leetcode/demo4.php" />
+        <option value="$PROJECT_DIR$/test.php" />
+        <option value="$PROJECT_DIR$/sort.php" />
+        <option value="$PROJECT_DIR$/leetcode/demo860.php" />
+        <option value="$PROJECT_DIR$/leetcode/demo5.php" />
+        <option value="$PROJECT_DIR$/leetcode/demo6.php" />
+        <option value="$PROJECT_DIR$/leetcode/demo7.php" />
+        <option value="$PROJECT_DIR$/leetcode/demo8.php" />
       </list>
     </option>
   </component>
@@ -215,13 +296,15 @@
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
     <include_path>
       <path value="$PROJECT_DIR$/../../ide/swoole-ide-helper" />
+      <path value="$PROJECT_DIR$/PHP-Parser" />
     </include_path>
   </component>
   <component name="PhpXdebugProxy" ide_key="PHPSTORM" host="127.0.0.1" port="80" />
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="-1920" />
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1440" />
+    <option name="y" value="23" />
+    <option name="width" value="1724" />
+    <option name="height" value="929" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -238,7 +321,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -254,21 +336,13 @@
             <path>
               <item name="codeexample" type="b2602c69:ProjectViewProjectNode" />
               <item name="codeexample" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="cache" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="codeexample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codeexample" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="debug" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="codeexample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+              <item name="leetcode" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -276,11 +350,18 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/tree" />
+      <recent name="$PROJECT_DIR$/designPatterns/AbstractFactory" />
+      <recent name="$PROJECT_DIR$/alidayu/api/src" />
+      <recent name="$PROJECT_DIR$/alidayu/api/demo" />
+      <recent name="$PROJECT_DIR$/alidayu/api" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/liaotianshi" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -334,12 +415,44 @@
       <workItem from="1530493925176" duration="4000" />
       <workItem from="1530494090527" duration="39000" />
       <workItem from="1530699230512" duration="29165000" />
-      <workItem from="1532058291633" duration="14692000" />
+      <workItem from="1532058291633" duration="16158000" />
+      <workItem from="1532999029557" duration="355000" />
+      <workItem from="1534219310971" duration="10921000" />
+      <workItem from="1534304262367" duration="2383000" />
+      <workItem from="1534325894247" duration="7875000" />
+      <workItem from="1534908075907" duration="2366000" />
+      <workItem from="1534912726704" duration="11298000" />
+      <workItem from="1536223232970" duration="3158000" />
+      <workItem from="1538040468255" duration="11250000" />
+      <workItem from="1538189151333" duration="1645000" />
+      <workItem from="1539094589237" duration="5783000" />
+      <workItem from="1539254817084" duration="18963000" />
+      <workItem from="1539566932996" duration="605000" />
+      <workItem from="1539584259787" duration="2105000" />
+      <workItem from="1539652225667" duration="1806000" />
+      <workItem from="1541342208044" duration="13000" />
+      <workItem from="1542693504544" duration="2110000" />
+      <workItem from="1544604549918" duration="1023000" />
+      <workItem from="1544750020863" duration="1014000" />
+      <workItem from="1545120022762" duration="3044000" />
+      <workItem from="1545209906269" duration="821000" />
+      <workItem from="1545213578897" duration="3600000" />
+      <workItem from="1545217338139" duration="2785000" />
+      <workItem from="1545708495989" duration="37000" />
+      <workItem from="1545964895176" duration="4565000" />
+      <workItem from="1547626493629" duration="49000" />
+      <workItem from="1548065531811" duration="1842000" />
+      <workItem from="1548827027734" duration="3412000" />
+      <workItem from="1548897358664" duration="486000" />
+      <workItem from="1549382743403" duration="92000" />
+      <workItem from="1550544484528" duration="21309000" />
+      <workItem from="1550727455380" duration="20246000" />
+      <workItem from="1551438798810" duration="4116000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111291000" />
+    <option name="totallyTimeSpent" value="263834000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -351,19 +464,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1920" y="0" width="1920" height="1080" extended-state="0" />
+    <frame x="1440" y="23" width="1724" height="929" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.095846646" sideWeight="0.49425286" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11296076" sideWeight="0.49425286" order="2" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902297" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13471779" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33573142" sideWeight="0.29488704" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.114149824" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37537238" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33573142" sideWeight="0.70511293" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3994253" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16558966" sideWeight="0.50574714" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -371,6 +483,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -387,308 +500,400 @@
           <url>file://$PROJECT_DIR$/soap/server.php</url>
           <line>21</line>
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/liaotianshi/chat.php</url>
+          <line>54</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/leetcode/demo2.php</url>
+          <line>61</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="4" />
+      <option name="time" value="6" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/xml.php">
+    <entry file="file://$PROJECT_DIR$/alidayu/api/config/api.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1734">
-          <caret line="102" column="32" lean-forward="false" selection-start-line="102" selection-start-column="32" selection-end-line="102" selection-end-column="32" />
+        <state relative-caret-position="154">
+          <caret line="11" column="2" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oo.php" />
-    <entry file="file://$PROJECT_DIR$/class_attr.php">
+    <entry file="file://$PROJECT_DIR$/alidayu/api/src/api_sdk/lib/Core/Config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2363">
-          <caret line="142" column="14" lean-forward="false" selection-start-line="142" selection-start-column="9" selection-end-line="142" selection-end-column="14" />
+        <state relative-caret-position="198">
+          <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/soap/server.php">
+    <entry file="file://$PROJECT_DIR$/alidayu/api/src/api_sdk/lib/Api/Sms/Request/V20170525/SendSmsRequest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="21" column="16" lean-forward="false" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-          <folding />
+        <state relative-caret-position="308">
+          <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md" />
-    <entry file="file://$PROJECT_DIR$/tree/tree.php">
+    <entry file="file://$PROJECT_DIR$/alidayu/api/demo/MsgDemo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="41" column="20" lean-forward="false" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.php">
+    <entry file="file://$PROJECT_DIR$/aliyun-dysms-php-sdk/api_demo/SmsDemo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        <state relative-caret-position="132">
+          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xy.php" />
-    <entry file="file://$PROJECT_DIR$/test2.php" />
-    <entry file="file://$PROJECT_DIR$/cache/queue.php">
+    <entry file="file://$PROJECT_DIR$/alidayu/api/demo/SmsDemo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2414">
-          <caret line="142" column="31" lean-forward="false" selection-start-line="142" selection-start-column="31" selection-end-line="142" selection-end-column="31" />
+        <state relative-caret-position="1672">
+          <caret line="81" column="16" lean-forward="false" selection-start-line="81" selection-start-column="16" selection-end-line="81" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oo.php" />
-    <entry file="file://$PROJECT_DIR$/class_attr.php">
+    <entry file="file://$PROJECT_DIR$/../../ide/swoole-ide-helper/src/Functionals.php" />
+    <entry file="file://$PROJECT_DIR$/../../ide/swoole-ide-helper/src/Client.php" />
+    <entry file="file://$PROJECT_DIR$/liaotianshi/framework/libs/Swoole/Encrypter.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2363">
-          <caret line="142" column="14" lean-forward="false" selection-start-line="142" selection-start-column="9" selection-end-line="142" selection-end-column="14" />
+        <state relative-caret-position="352">
+          <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xml.php">
+    <entry file="file://$PROJECT_DIR$/liaotianshi/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1734">
-          <caret line="102" column="32" lean-forward="false" selection-start-line="102" selection-start-column="32" selection-end-line="102" selection-end-column="32" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cache/redis.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/preg.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="33" lean-forward="false" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xy.php" />
-    <entry file="file://$PROJECT_DIR$/cache/memcached.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="43" lean-forward="false" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test2.php" />
-    <entry file="file://$PROJECT_DIR$/cache/queue.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2414">
-          <caret line="142" column="31" lean-forward="false" selection-start-line="142" selection-start-column="31" selection-end-line="142" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oo.php" />
-    <entry file="file://$PROJECT_DIR$/preg.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="33" lean-forward="false" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class_attr.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2363">
-          <caret line="142" column="14" lean-forward="false" selection-start-line="142" selection-start-column="9" selection-end-line="142" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xml.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1734">
-          <caret line="102" column="32" lean-forward="false" selection-start-line="102" selection-start-column="32" selection-end-line="102" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cache/redis.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/soap/client.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="16" column="35" lean-forward="false" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/soap/server.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="21" column="16" lean-forward="false" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../meiqingmuxiu/moveshow/public/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cache/redis2.php" />
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/csprng/CSPRNG.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/redis/Redis.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7370">
-          <caret line="335" column="20" lean-forward="false" selection-start-line="335" selection-start-column="20" selection-end-line="335" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/swoole/server.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="10" lean-forward="false" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/tree.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-134">
-          <caret line="41" column="20" lean-forward="false" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test2.php" />
-    <entry file="file://$PROJECT_DIR$/xy.php" />
-    <entry file="file://$PROJECT_DIR$/oo.php" />
-    <entry file="file://$PROJECT_DIR$/class_attr.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1319">
-          <caret line="58" column="5" lean-forward="false" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md" />
-    <entry file="file://$PROJECT_DIR$/preg.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="33" lean-forward="false" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="23" lean-forward="false" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xml.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2244">
-          <caret line="102" column="32" lean-forward="false" selection-start-line="102" selection-start-column="32" selection-end-line="102" selection-end-column="32" />
-          <folding>
-            <marker date="1519968460416" expanded="true" signature="153:3335" ph="..." />
-            <marker date="1519968460416" expanded="true" signature="310:3314" ph="..." />
-            <marker date="1519968460416" expanded="true" signature="322:3298" ph="..." />
-            <marker date="1519968460416" expanded="true" signature="535:773" ph="..." />
-            <marker date="1519968460416" expanded="true" signature="797:1394" ph="..." />
-            <marker date="1519968460416" expanded="true" signature="816:1039" ph="..." />
-            <marker date="1519968460416" expanded="true" signature="1072:1290" ph="..." />
-            <marker date="1519968460416" expanded="true" signature="1572:2010" ph="..." />
-            <marker date="1519968460416" expanded="true" signature="2174:3234" ph="..." />
-            <marker date="1519968460416" expanded="true" signature="2196:2691" ph="..." />
-            <marker date="1519968460416" expanded="true" signature="2214:2288" ph="..." />
-            <marker date="1519968460416" expanded="true" signature="2316:2428" ph="..." />
-            <marker date="1519968460416" expanded="true" signature="2445:2505" ph="..." />
-            <marker date="1519968460416" expanded="true" signature="2713:3208" ph="..." />
-            <marker date="1519968460416" expanded="true" signature="2731:2805" ph="..." />
-            <marker date="1519968460416" expanded="true" signature="2833:2945" ph="..." />
-            <marker date="1519968460416" expanded="true" signature="2962:3022" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cache/memcached.php">
+    <entry file="file://$PROJECT_DIR$/liaotianshi/framework/composer.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
+          <caret line="8" column="36" lean-forward="false" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/mysqli/mysqli.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43054">
+          <caret line="1960" column="9" lean-forward="false" selection-start-line="1960" selection-start-column="9" selection-end-line="1960" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/designPatterns/AbstractFactory/JsonFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/designPatterns/AbstractFactory/Text.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="13" column="28" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/designPatterns/AbstractFactory/HtmlText.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/designPatterns/AbstractFactory/Test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/Reflection/Reflection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35068">
+          <caret line="1594" column="45" lean-forward="false" selection-start-line="1594" selection-start-column="45" selection-end-line="1594" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class_attr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="38" column="19" lean-forward="false" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cache/queue.php">
+    <entry file="file://$PROJECT_DIR$/liaotianshi/from.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3058">
+          <caret line="139" column="79" lean-forward="false" selection-start-line="139" selection-start-column="79" selection-end-line="139" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liaotianshi/to.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6226">
+          <caret line="283" column="37" lean-forward="false" selection-start-line="283" selection-start-column="37" selection-end-line="283" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liaotianshi/client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liaotianshi/chat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="46" column="24" lean-forward="false" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/craw/craw.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="3" lean-forward="false" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/craw/a">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_9.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15466">
+          <caret line="703" column="13" lean-forward="false" selection-start-line="703" selection-start-column="13" selection-end-line="703" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/craw/72qier.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="12" lean-forward="false" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1672">
+          <caret line="76" column="15" lean-forward="false" selection-start-line="76" selection-start-column="9" selection-end-line="76" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/demo.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
-          <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cache/opcache.php" />
-    <entry file="file://$PROJECT_DIR$/cache/apcu.php" />
-    <entry file="file://$PROJECT_DIR$/cache/apc.php" />
-    <entry file="file://$PROJECT_DIR$/cache/RedisCluster.php">
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/SPL/SPL.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        <state relative-caret-position="163">
+          <caret line="1839" column="0" lean-forward="true" selection-start-line="1839" selection-start-column="0" selection-end-line="1839" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/Core/Core_c.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="522" column="3" lean-forward="true" selection-start-line="522" selection-start-column="3" selection-end-line="522" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/redis/RedisCluster.php">
+    <entry file="file://$PROJECT_DIR$/a.ini">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2134">
-          <caret line="97" column="7" lean-forward="false" selection-start-line="97" selection-start-column="7" selection-end-line="97" selection-end-column="7" />
+        <state relative-caret-position="44">
+          <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xml.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/designPatterns/AbstractFactory/JsonText.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/designPatterns/AbstractFactory/AbstractFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/designPatterns/AbstractFactory/HtmlFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cache/memcached.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cache/redis.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="27" column="16" lean-forward="false" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
-          <folding>
-            <element signature="e#7#40#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/debug/xdebug.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        <state relative-caret-position="264">
+          <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/unicode.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="117" column="21" lean-forward="false" selection-start-line="117" selection-start-column="21" selection-end-line="117" selection-end-column="21" />
+        <state relative-caret-position="1738">
+          <caret line="86" column="1" lean-forward="false" selection-start-line="86" selection-start-column="1" selection-end-line="86" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/debug/xdebug.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="19" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/demo860.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="3" lean-forward="false" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/demo4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="2" lean-forward="false" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/demo5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="2" lean-forward="false" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/demo6.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/demo7.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/demo8.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="3" lean-forward="false" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
           <folding>
-            <element signature="e#7#215#0#PHP" expanded="true" />
+            <element signature="e#6#1046#0#PHP" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/demo1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="42" column="18" lean-forward="false" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+          <folding>
+            <element signature="n#Solution#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/demo3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-375">
+          <caret line="1" column="3" lean-forward="false" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+          <folding>
+            <element signature="e#6#372#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/demo2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="23" column="17" lean-forward="false" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+          <folding>
+            <element signature="e#6#294#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/Node.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-652">
+          <caret line="19" column="3" lean-forward="false" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sort.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-319">
+          <caret line="38" column="3" lean-forward="true" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>

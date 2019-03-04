@@ -39,26 +39,25 @@ echo '原始数组队列:', join(',', $list), PHP_EOL;
  */
 function bubbleSort(array $list)
 {
-    $copyList = $list;
-    $length = count($copyList);
-    //冒泡的次数
-    for ($i = 1; $i < $length; $i++) {
-        //每轮冒泡需要比较的次数
-        for ($k = 0; $k < $length - $i; $k++) {
-            if ($copyList[$k] > $copyList[$k + 1]) {
-                $tmp = $copyList[$k];
-                $copyList[$k] = $copyList[$k + 1];
-                $copyList[$k + 1] = $tmp;
+    //需要冒泡的次数
+    $len = count($list);
+    for ($i = 1; $i < $len; $i++) {
+        //每轮冒泡需要比较的次数 4->3->2->1
+        for ($j = 0; $j < $len - $i; $j++) {
+            if($list[$j+1]<$list[$j]){
+                $tmp = $list[$j];
+                $list[$j] = $list[$j+1];
+                $list[$j+1] = $tmp;
             }
         }
     }
-    return $copyList;
+    return $list;
 }
 
 echo '冒泡排序后:', join(',', bubbleSort($list)), PHP_EOL;
 
 /**
- * 选择排序
+ * 选择排序,假设当前最小
  * @desc
  *      在要排序的一组数中，选出最小的一个数与第一个位置的数交换。
  *      然后在剩下的数当中再找最小的与第二个位置的数交换，如此循环到倒数第二个数和最后一个数比较为止。
@@ -112,20 +111,20 @@ echo '选择排序后:', join(',', selectSort($list)), PHP_EOL;
  */
 function insertSort(array $list)
 {
-    $length = count($list);
-    $copyList = $list;
-    for ($i = 1; $i < $length; $i++) {
-        $tmp = $copyList[$i];
-        for ($k = $i - 1; $k >= 0; $k++) {
-            if ($tmp < $copyList[$k]) {
-                $copyList[$k + 1] = $copyList[$k];
-                $copyList[$k] = $tmp;
+    $len = count($list);
+    for ($i = 1; $i < $len; $i++) {
+        $current = $list[$i];
+        for ($j = $i - 1; $j >= 0; $j--) {
+            if ($current < $list[$j]) {
+                $list[$j + 1] = $list[$j];
+                $list[$j] = $current;
             } else {
                 break;
             }
         }
+        if ($i ==2)return $list;
     }
-    return $copyList;
+    return $list;
 }
 
 echo '插入排序后:', join(',', selectSort($list)), PHP_EOL;
@@ -169,3 +168,24 @@ function quickSort(array $list)
 
 echo '快速排序后:', join(',', quickSort($list)), PHP_EOL;
 
+function test(array $list){
+    $len = count($list);
+    if($len<=1){
+        return $list;
+    }
+    $base = $list[0];
+    $l = [];
+    $r = [];
+    for ($i=1;$i<$len;$i++){
+        if($list[$i]>$base){
+            $r[] = $list[$i];
+        }else{
+            $l[] = $list[$i];
+        }
+    }
+    $r = test($r);
+    $l = test($l);
+
+    return array_merge($l,[$base],$r);
+}
+echo 'test后:', join(',', test($list)), PHP_EOL;
