@@ -88,7 +88,7 @@ function selectSort(array $list)
 echo '选择排序后:', join(',', selectSort($list)), PHP_EOL;
 
 /**
- * 插入排序
+ * 插入排序,将第N个数与前面的数依次比较
  * @desc
  *      在要排序的一组数中，假设前面的数已经是排好顺序的，
  *      现在要把第n个数插到前面的有序数中，使得这n个数也是排好顺序的。
@@ -122,7 +122,6 @@ function insertSort(array $list)
                 break;
             }
         }
-        if ($i ==2)return $list;
     }
     return $list;
 }

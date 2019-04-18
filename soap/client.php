@@ -25,7 +25,7 @@ try {
     echo $soap->__soapcall("tell", ['a' => 111]);//调用方法二
 } catch (SoapFault $e) {
     echo "Soap error " . $e->getMessage();
-} catch (Exception $e) {
+} catch (Throwable $e) {
     echo "Exception error " . $e->getMessage();
 }
 echo PHP_EOL;

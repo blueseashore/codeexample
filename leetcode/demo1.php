@@ -36,8 +36,8 @@ class Solution
     }
 }
 
-$nums = [2, 7, 11, 15];
+$numArr = [2, 7, 11, 15];
 $target = 9;
 $class = new Solution();
-$results = $class->twoSum($nums, $target);
+$results = $class->twoSum($numArr, $target);
 print_r($results);

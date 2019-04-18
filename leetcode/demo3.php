@@ -54,5 +54,5 @@ class Solution
 }
 
 $class = new Solution();
-$result = $class->lengthOfLongestSubstring('hello world');
+$result = $class->lengthOfLongestSubstring('hello worldabcdfghijklmn');
 echo $result,PHP_EOL;

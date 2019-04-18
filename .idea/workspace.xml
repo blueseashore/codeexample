@@ -2,37 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f8ba42e-fb14-4785-a01e-60be3b20a621" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/a.ini" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/alidayu/api/config/api.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/craw/72qier.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/craw/craw.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/designPatterns/AbstractFactory/AbstractFactory.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/designPatterns/AbstractFactory/HtmlFactory.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/designPatterns/AbstractFactory/HtmlText.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/designPatterns/AbstractFactory/JsonFactory.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/designPatterns/AbstractFactory/JsonText.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/designPatterns/AbstractFactory/Test.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/designPatterns/AbstractFactory/Text.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/exception/level.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/Node.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/demo.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/demo1.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/demo2.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/demo3.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/demo4.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/demo5.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/demo6.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/demo7.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/demo8.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/demo860.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/liaotianshi/chat.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/liaotianshi/client.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/liaotianshi/from.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/liaotianshi/to.html" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeexample.iml" afterPath="$PROJECT_DIR$/.idea/codeexample.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" afterPath="$PROJECT_DIR$/.idea/php.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DesignPatterns/Builder/BuilderInterface.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DesignPatterns/Builder/Director.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DesignPatterns/Builder/Parts/Vehicle.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DesignPatterns/Creational/AbstractFactory/AbstractFactoryTest.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/craw/shuquge.com/book.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/craw/shuquge.com/chapter.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/craw/shuquge.com/post.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/graphql/graphql.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/demo10.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/demo11.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/leetcode/demo9.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/unitTest/demo.php" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/cache/redis.php" afterPath="$PROJECT_DIR$/cache/redis.php" />
+      <change beforePath="$PROJECT_DIR$/craw/72qier.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/craw/a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/craw/craw.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/designPatterns/AbstractFactory/AbstractFactory.php" afterPath="$PROJECT_DIR$/DesignPatterns/Creational/AbstractFactory/AbstractFactory.php" />
+      <change beforePath="$PROJECT_DIR$/designPatterns/AbstractFactory/HtmlFactory.php" afterPath="$PROJECT_DIR$/DesignPatterns/Creational/AbstractFactory/HtmlFactory.php" />
+      <change beforePath="$PROJECT_DIR$/designPatterns/AbstractFactory/HtmlText.php" afterPath="$PROJECT_DIR$/DesignPatterns/Creational/AbstractFactory/HtmlText.php" />
+      <change beforePath="$PROJECT_DIR$/designPatterns/AbstractFactory/JsonFactory.php" afterPath="$PROJECT_DIR$/DesignPatterns/Creational/AbstractFactory/JsonFactory.php" />
+      <change beforePath="$PROJECT_DIR$/designPatterns/AbstractFactory/JsonText.php" afterPath="$PROJECT_DIR$/DesignPatterns/Creational/AbstractFactory/JsonText.php" />
+      <change beforePath="$PROJECT_DIR$/designPatterns/AbstractFactory/Test.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/designPatterns/AbstractFactory/Text.php" afterPath="$PROJECT_DIR$/DesignPatterns/Creational/AbstractFactory/Text.php" />
+      <change beforePath="$PROJECT_DIR$/leetcode/demo1.php" afterPath="$PROJECT_DIR$/leetcode/demo1.php" />
+      <change beforePath="$PROJECT_DIR$/leetcode/demo3.php" afterPath="$PROJECT_DIR$/leetcode/demo3.php" />
+      <change beforePath="$PROJECT_DIR$/leetcode/demo4.php" afterPath="$PROJECT_DIR$/leetcode/demo4.php" />
+      <change beforePath="$PROJECT_DIR$/leetcode/demo5.php" afterPath="$PROJECT_DIR$/leetcode/demo5.php" />
+      <change beforePath="$PROJECT_DIR$/leetcode/demo6.php" afterPath="$PROJECT_DIR$/leetcode/demo6.php" />
+      <change beforePath="$PROJECT_DIR$/leetcode/demo7.php" afterPath="$PROJECT_DIR$/leetcode/demo7.php" />
+      <change beforePath="$PROJECT_DIR$/leetcode/demo8.php" afterPath="$PROJECT_DIR$/leetcode/demo8.php" />
+      <change beforePath="$PROJECT_DIR$/soap/client.php" afterPath="$PROJECT_DIR$/soap/client.php" />
       <change beforePath="$PROJECT_DIR$/sort.php" afterPath="$PROJECT_DIR$/sort.php" />
       <change beforePath="$PROJECT_DIR$/test.php" afterPath="$PROJECT_DIR$/test.php" />
     </list>
@@ -63,109 +64,113 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="demo4.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/demo4.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="2" lean-forward="false" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="demo3.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/demo3.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-375">
-              <caret line="1" column="3" lean-forward="false" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-              <folding>
-                <element signature="e#6#372#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="demo1.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/demo1.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="42" column="18" lean-forward="false" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
-              <folding>
-                <element signature="n#Solution#0;n#!!top" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="demo2.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/demo2.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="23" column="17" lean-forward="false" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-              <folding>
-                <element signature="e#6#294#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="demo5.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/demo5.php">
+      <file leaf-file-name="AbstractFactoryTest.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DesignPatterns/Creational/AbstractFactory/AbstractFactoryTest.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="132">
-              <caret line="6" column="2" lean-forward="false" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+              <caret line="9" column="31" lean-forward="false" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="demo6.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/demo6.php">
+      <file leaf-file-name="composer.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/composer.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="demo7.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/demo7.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sort.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sort.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-319">
-              <caret line="38" column="3" lean-forward="true" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="demo8.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/demo8.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="3" lean-forward="false" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+            <state relative-caret-position="308">
+              <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
               <folding>
-                <element signature="e#6#1046#0#PHP" expanded="false" />
+                <marker date="1553132716908" expanded="true" signature="74:305" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Node.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/Node.php">
+      <file leaf-file-name="chapter.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/craw/shuquge.com/chapter.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-652">
-              <caret line="19" column="3" lean-forward="false" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+            <state relative-caret-position="946">
+              <caret line="46" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+              <folding>
+                <marker date="1552987374805" expanded="true" signature="1567:1650" ph="insert into chapter... " />
+                <marker date="1552987374805" expanded="true" signature="1567:1714" ph="insert into chapter... " />
+                <marker date="1552987374805" expanded="true" signature="1567:1740" ph="insert into chapter... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Director.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DesignPatterns/Builder/Director.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Vehicle.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DesignPatterns/Builder/Parts/Vehicle.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/craw/shuquge.com/post.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1276">
+              <caret line="58" column="7" lean-forward="false" selection-start-line="58" selection-start-column="7" selection-end-line="58" selection-end-column="7" />
+              <folding>
+                <marker date="1553047869787" expanded="true" signature="190:258" ph="SELECT * FRO... chapter" />
+                <marker date="1553047869787" expanded="true" signature="407:1032" ph="INSERT INTO wordpress.wp_posts... " />
+                <marker date="1553047869787" expanded="true" signature="1136:1246" ph="insert into wordpress.wp_term_relationships... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BuilderInterface.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DesignPatterns/Builder/BuilderInterface.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="graphql.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/graphql/graphql.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="13" column="14" lean-forward="false" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+              <folding>
+                <element signature="e#113#132#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="client.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/soap/client.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/soap/server.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -182,8 +187,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>input</find>
-      <find>slee</find>
       <find>so</find>
       <find>$persistent</find>
       <find>26</find>
@@ -212,6 +215,8 @@
       <find>qTcms_pic</find>
       <find>statics</find>
       <find>原始数组队列</find>
+      <find>$t</find>
+      <find>无法正常使用本系统</find>
     </findStrings>
     <replaceStrings>
       <replace>$num</replace>
@@ -226,57 +231,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/class_attr.php" />
-        <option value="$PROJECT_DIR$/xml.php" />
-        <option value="$PROJECT_DIR$/debug/xdebug.php" />
-        <option value="$PROJECT_DIR$/cache/redis2.php" />
-        <option value="$PROJECT_DIR$/swoole/server.php" />
-        <option value="$PROJECT_DIR$/cache/memcached.php" />
-        <option value="$PROJECT_DIR$/test2.php" />
-        <option value="$PROJECT_DIR$/oo.php" />
-        <option value="$PROJECT_DIR$/cache/apc.php" />
-        <option value="$PROJECT_DIR$/cache/opcache.php" />
-        <option value="$PROJECT_DIR$/cache/apcu.php" />
-        <option value="$PROJECT_DIR$/cache/RedisCluster.php" />
-        <option value="$PROJECT_DIR$/algorithms/unicode.php" />
-        <option value="$PROJECT_DIR$/sort/bubbleSort.php" />
-        <option value="$PROJECT_DIR$/exception/level.php" />
-        <option value="$PROJECT_DIR$/cache/redis.php" />
-        <option value="$PROJECT_DIR$/cache/chat_html.html" />
-        <option value="$PROJECT_DIR$/cache/chat.php" />
-        <option value="$PROJECT_DIR$/alidayu/composer.json" />
-        <option value="$PROJECT_DIR$/alidayu/api/config/api.php" />
-        <option value="$PROJECT_DIR$/alidayu/api/demo/SmsDemo.php" />
-        <option value="$PROJECT_DIR$/craw/craw.py" />
-        <option value="$PROJECT_DIR$/designPatterns/AbstractFactory.php" />
-        <option value="$PROJECT_DIR$/designPatterns/AbstractFactory/AbstractFactory.php" />
-        <option value="$PROJECT_DIR$/designPatterns/AbstractFactory/JsonFactory.php" />
-        <option value="$PROJECT_DIR$/designPatterns/AbstractFactory/HtmlFactory.php" />
-        <option value="$PROJECT_DIR$/designPatterns/AbstractFactory/Text.php" />
-        <option value="$PROJECT_DIR$/designPatterns/AbstractFactory/JsonText.php" />
-        <option value="$PROJECT_DIR$/designPatterns/AbstractFactory/HtmlText.php" />
-        <option value="$PROJECT_DIR$/designPatterns/AbstractFactory/Test.php" />
-        <option value="$PROJECT_DIR$/liaotianshi/chat.php" />
-        <option value="$PROJECT_DIR$/liaotianshi/from.html" />
-        <option value="$PROJECT_DIR$/liaotianshi/client.php" />
         <option value="$PROJECT_DIR$/liaotianshi/to.html" />
         <option value="$PROJECT_DIR$/craw/a" />
         <option value="$PROJECT_DIR$/craw/72qier.php" />
-        <option value="$PROJECT_DIR$/leetcode/demo1.php" />
         <option value="$PROJECT_DIR$/leetcode/Node.php" />
         <option value="$PROJECT_DIR$/leetcode/demo2.php" />
-        <option value="$PROJECT_DIR$/leetcode/demo3.php" />
         <option value="$PROJECT_DIR$/leetcode/demo.php" />
         <option value="$PROJECT_DIR$/tree/a.ini" />
         <option value="$PROJECT_DIR$/a.ini" />
-        <option value="$PROJECT_DIR$/leetcode/demo4.php" />
-        <option value="$PROJECT_DIR$/test.php" />
-        <option value="$PROJECT_DIR$/sort.php" />
         <option value="$PROJECT_DIR$/leetcode/demo860.php" />
+        <option value="$PROJECT_DIR$/leetcode/demo1.php" />
+        <option value="$PROJECT_DIR$/leetcode/demo3.php" />
+        <option value="$PROJECT_DIR$/sort.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/leetcode/demo4.php" />
         <option value="$PROJECT_DIR$/leetcode/demo5.php" />
         <option value="$PROJECT_DIR$/leetcode/demo6.php" />
         <option value="$PROJECT_DIR$/leetcode/demo7.php" />
         <option value="$PROJECT_DIR$/leetcode/demo8.php" />
+        <option value="$PROJECT_DIR$/leetcode/demo9.php" />
+        <option value="$PROJECT_DIR$/leetcode/demo11.php" />
+        <option value="$PROJECT_DIR$/leetcode/demo10.php" />
+        <option value="$PROJECT_DIR$/test.php" />
+        <option value="$PROJECT_DIR$/designPatterns/AbstractFactory/AbstractFactory.php" />
+        <option value="$PROJECT_DIR$/designPatterns/AbstractFactory/Test.php" />
+        <option value="$PROJECT_DIR$/designPatterns/Creational/AbstractFactory/AbstractFactory.php" />
+        <option value="$PROJECT_DIR$/designPatterns/Creational/AbstractFactory/HtmlFactory.php" />
+        <option value="$PROJECT_DIR$/designPatterns/Creational/AbstractFactory/HtmlText.php" />
+        <option value="$PROJECT_DIR$/designPatterns/Creational/AbstractFactory/JsonFactory.php" />
+        <option value="$PROJECT_DIR$/designPatterns/Creational/AbstractFactory/JsonText.php" />
+        <option value="$PROJECT_DIR$/designPatterns/Creational/AbstractFactory/Text.php" />
+        <option value="$PROJECT_DIR$/designPatterns/Creational/AbstractFactory/Test.php" />
+        <option value="$PROJECT_DIR$/designPatterns/Creational/AbstractFactory/AbstractFactoryTest.php" />
+        <option value="$PROJECT_DIR$/craw/shuquge.com/book.php" />
+        <option value="$PROJECT_DIR$/craw/shuquge.com/chapter.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/DesignPatterns/Creational/AbstractFactory/AbstractFactory.php" />
+        <option value="$PROJECT_DIR$/DesignPatterns/Creational/AbstractFactory/HtmlFactory.php" />
+        <option value="$PROJECT_DIR$/DesignPatterns/Creational/AbstractFactory/HtmlText.php" />
+        <option value="$PROJECT_DIR$/DesignPatterns/Creational/AbstractFactory/JsonFactory.php" />
+        <option value="$PROJECT_DIR$/DesignPatterns/Creational/AbstractFactory/JsonText.php" />
+        <option value="$PROJECT_DIR$/DesignPatterns/Creational/AbstractFactory/Text.php" />
+        <option value="$PROJECT_DIR$/unitTest/demo.php" />
+        <option value="$PROJECT_DIR$/DesignPatterns/Creational/AbstractFactory/AbstractFactoryTest.php" />
+        <option value="$PROJECT_DIR$/DesignPatterns/Builder/Parts/Director.php" />
+        <option value="$PROJECT_DIR$/DesignPatterns/Builder/Director.php" />
+        <option value="$PROJECT_DIR$/DesignPatterns/Builder/Parts/Vehicle.php" />
+        <option value="$PROJECT_DIR$/DesignPatterns/Builder/BuilderInterface.php" />
+        <option value="$PROJECT_DIR$/craw/shuquge.com/post.php" />
+        <option value="$PROJECT_DIR$/graphql/index.php" />
+        <option value="$PROJECT_DIR$/graphql/graphql.php" />
+        <option value="$PROJECT_DIR$/soap/client.php" />
       </list>
     </option>
   </component>
@@ -301,10 +306,10 @@
   </component>
   <component name="PhpXdebugProxy" ide_key="PHPSTORM" host="127.0.0.1" port="80" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="1440" />
-    <option name="y" value="23" />
-    <option name="width" value="1724" />
-    <option name="height" value="929" />
+    <option name="x" value="1640" />
+    <option name="y" value="-59" />
+    <option name="width" value="1440" />
+    <option name="height" value="779" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -331,19 +336,19 @@
             <path>
               <item name="codeexample" type="b2602c69:ProjectViewProjectNode" />
               <item name="codeexample" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="algorithms" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="soap" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="codeexample" type="b2602c69:ProjectViewProjectNode" />
               <item name="codeexample" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="leetcode" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -354,11 +359,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/DesignPatterns/Builder" />
+      <recent name="$PROJECT_DIR$/designPatterns/Creational" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/designPatterns/AbstractFactory" />
       <recent name="$PROJECT_DIR$/alidayu/api/src" />
-      <recent name="$PROJECT_DIR$/alidayu/api/demo" />
-      <recent name="$PROJECT_DIR$/alidayu/api" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/liaotianshi" />
@@ -447,12 +452,20 @@
       <workItem from="1549382743403" duration="92000" />
       <workItem from="1550544484528" duration="21309000" />
       <workItem from="1550727455380" duration="20246000" />
-      <workItem from="1551438798810" duration="4116000" />
+      <workItem from="1551438798810" duration="10203000" />
+      <workItem from="1551749096549" duration="44419000" />
+      <workItem from="1552266628760" duration="205000" />
+      <workItem from="1552874874026" duration="16896000" />
+      <workItem from="1552981993143" duration="12752000" />
+      <workItem from="1553132662789" duration="3873000" />
+      <workItem from="1553763599364" duration="164000" />
+      <workItem from="1554213529672" duration="6000" />
+      <workItem from="1555555893316" duration="204000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="263834000" />
+    <option name="totallyTimeSpent" value="348440000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -464,18 +477,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="23" width="1724" height="929" extended-state="0" />
-    <editor active="true" />
+    <frame x="1640" y="-59" width="1440" height="779" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11296076" sideWeight="0.49425286" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18025751" sideWeight="0.49425286" order="2" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902297" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33573142" sideWeight="0.29488704" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.114149824" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09155937" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33573142" sideWeight="0.70511293" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3114035" sideWeight="0.70511293" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3994253" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16558966" sideWeight="0.50574714" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -501,11 +513,6 @@
           <line>21</line>
         </line-breakpoint>
         <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/liaotianshi/chat.php</url>
-          <line>54</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
           <url>file://$PROJECT_DIR$/leetcode/demo2.php</url>
           <line>61</line>
           <option name="timeStamp" value="5" />
@@ -514,266 +521,15 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="6" />
+      <option name="time" value="7" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/alidayu/api/config/api.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="11" column="2" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alidayu/api/src/api_sdk/lib/Core/Config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alidayu/api/src/api_sdk/lib/Api/Sms/Request/V20170525/SendSmsRequest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alidayu/api/demo/MsgDemo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aliyun-dysms-php-sdk/api_demo/SmsDemo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alidayu/api/demo/SmsDemo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1672">
-          <caret line="81" column="16" lean-forward="false" selection-start-line="81" selection-start-column="16" selection-end-line="81" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../ide/swoole-ide-helper/src/Functionals.php" />
-    <entry file="file://$PROJECT_DIR$/../../ide/swoole-ide-helper/src/Client.php" />
-    <entry file="file://$PROJECT_DIR$/liaotianshi/framework/libs/Swoole/Encrypter.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/liaotianshi/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/liaotianshi/framework/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="36" lean-forward="false" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/mysqli/mysqli.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43054">
-          <caret line="1960" column="9" lean-forward="false" selection-start-line="1960" selection-start-column="9" selection-end-line="1960" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/designPatterns/AbstractFactory/JsonFactory.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/designPatterns/AbstractFactory/Text.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="13" column="28" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/designPatterns/AbstractFactory/HtmlText.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/designPatterns/AbstractFactory/Test.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/Reflection/Reflection.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35068">
-          <caret line="1594" column="45" lean-forward="false" selection-start-line="1594" selection-start-column="45" selection-end-line="1594" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class_attr.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="770">
-          <caret line="38" column="19" lean-forward="false" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/liaotianshi/from.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3058">
-          <caret line="139" column="79" lean-forward="false" selection-start-line="139" selection-start-column="79" selection-end-line="139" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/liaotianshi/to.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6226">
-          <caret line="283" column="37" lean-forward="false" selection-start-line="283" selection-start-column="37" selection-end-line="283" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/liaotianshi/client.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/liaotianshi/chat.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1012">
-          <caret line="46" column="24" lean-forward="false" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/craw/craw.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="3" lean-forward="false" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/craw/a">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_9.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15466">
-          <caret line="703" column="13" lean-forward="false" selection-start-line="703" selection-start-column="13" selection-end-line="703" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/craw/72qier.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="12" lean-forward="false" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_5.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1672">
-          <caret line="76" column="15" lean-forward="false" selection-start-line="76" selection-start-column="9" selection-end-line="76" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/demo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/SPL/SPL.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="1839" column="0" lean-forward="true" selection-start-line="1839" selection-start-column="0" selection-end-line="1839" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/Core/Core_c.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="565">
-          <caret line="522" column="3" lean-forward="true" selection-start-line="522" selection-start-column="3" selection-end-line="522" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xml.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/designPatterns/AbstractFactory/JsonText.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/designPatterns/AbstractFactory/AbstractFactory.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/designPatterns/AbstractFactory/HtmlFactory.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cache/memcached.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cache/redis.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -781,7 +537,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1738">
           <caret line="86" column="1" lean-forward="false" selection-start-line="86" selection-start-column="1" selection-end-line="86" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -789,15 +544,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="19" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -805,94 +551,317 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="14" column="3" lean-forward="false" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/demo4.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="2" lean-forward="false" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/demo5.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="2" lean-forward="false" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/demo6.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/demo7.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/demo8.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="3" lean-forward="false" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-          <folding>
-            <element signature="e#6#1046#0#PHP" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/a.ini" />
+    <entry file="file://$PROJECT_DIR$/swoole/server.php" />
+    <entry file="file://$PROJECT_DIR$/liaotianshi/chat.php" />
+    <entry file="file://$PROJECT_DIR$/liaotianshi/client.php" />
     <entry file="file://$PROJECT_DIR$/leetcode/demo1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="42" column="18" lean-forward="false" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
-          <folding>
-            <element signature="n#Solution#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/demo3.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-375">
-          <caret line="1" column="3" lean-forward="false" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-          <folding>
-            <element signature="e#6#372#0#PHP" expanded="true" />
-          </folding>
+        <state relative-caret-position="462">
+          <caret line="39" column="12" lean-forward="false" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/demo2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="23" column="17" lean-forward="false" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        <state relative-caret-position="748">
+          <caret line="34" column="20" lean-forward="false" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
           <folding>
-            <element signature="e#6#294#0#PHP" expanded="true" />
+            <element signature="e#6#294#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/Node.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-652">
-          <caret line="19" column="3" lean-forward="false" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
-          <folding />
+        <state relative-caret-position="2926">
+          <caret line="133" column="0" lean-forward="false" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/demo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/demo3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="47" column="13" lean-forward="false" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sort.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-319">
-          <caret line="38" column="3" lean-forward="true" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
+        <state relative-caret-position="1255">
+          <caret line="115" column="29" lean-forward="false" selection-start-line="115" selection-start-column="29" selection-end-line="115" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/demo4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="62" column="48" lean-forward="false" selection-start-line="62" selection-start-column="48" selection-end-line="62" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/demo6.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1057">
+          <caret line="7" column="7" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/demo5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1364">
+          <caret line="62" column="31" lean-forward="false" selection-start-line="62" selection-start-column="31" selection-end-line="62" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/demo7.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="40" column="27" lean-forward="false" selection-start-line="39" selection-start-column="8" selection-end-line="40" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-97">
+          <caret line="415" column="9" lean-forward="false" selection-start-line="415" selection-start-column="9" selection-end-line="415" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/demo8.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1628">
+          <caret line="74" column="35" lean-forward="false" selection-start-line="74" selection-start-column="35" selection-end-line="74" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest.php" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/ffmpeg/ffmpeg.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="35" lean-forward="false" selection-start-line="16" selection-start-column="35" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/demo11.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/demo9.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="54" column="5" lean-forward="false" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/demo10.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1034">
+          <caret line="47" column="22" lean-forward="false" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/craw/72qier.php" />
+    <entry file="file://$PROJECT_DIR$/craw/craw.py" />
+    <entry file="file://$PROJECT_DIR$/craw/shuquge.com/1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="4427" lean-forward="false" selection-start-line="0" selection-start-column="4427" selection-end-line="0" selection-end-column="4427" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/craw/shuquge.com/book.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/mysqli/mysqli.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="95" column="11" lean-forward="false" selection-start-line="95" selection-start-column="11" selection-end-line="95" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPatterns/Creational/AbstractFactory/AbstractFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPatterns/Creational/AbstractFactory/HtmlFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPatterns/Creational/AbstractFactory/HtmlText.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPatterns/Creational/AbstractFactory/JsonFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPatterns/Creational/AbstractFactory/JsonText.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPatterns/Creational/AbstractFactory/Text.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unitTest/demo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <marker date="1553132716908" expanded="true" signature="74:305" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPatterns/Creational/AbstractFactory/AbstractFactoryTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="31" lean-forward="false" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPatterns/Builder/Director.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPatterns/Builder/Parts/Vehicle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPatterns/Builder/BuilderInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/craw/shuquge.com/chapter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="46" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding>
+            <marker date="1552987374805" expanded="true" signature="1567:1650" ph="insert into chapter... " />
+            <marker date="1552987374805" expanded="true" signature="1567:1714" ph="insert into chapter... " />
+            <marker date="1552987374805" expanded="true" signature="1567:1740" ph="insert into chapter... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/craw/shuquge.com/post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1276">
+          <caret line="58" column="7" lean-forward="false" selection-start-line="58" selection-start-column="7" selection-end-line="58" selection-end-column="7" />
+          <folding>
+            <marker date="1553047869787" expanded="true" signature="190:258" ph="SELECT * FRO... chapter" />
+            <marker date="1553047869787" expanded="true" signature="407:1032" ph="INSERT INTO wordpress.wp_posts... " />
+            <marker date="1553047869787" expanded="true" signature="1136:1246" ph="insert into wordpress.wp_term_relationships... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graphql/graphql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="13" column="14" lean-forward="false" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+          <folding>
+            <element signature="e#113#132#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soap/server.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soap/client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
           <folding />
         </state>
       </provider>

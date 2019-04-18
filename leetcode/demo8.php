@@ -1,4 +1,5 @@
 <?php
+
 /**
  * User: kendo
  * Date: 2019/3/4
@@ -53,3 +54,42 @@
  * 解释: 数字 "-91283472332" 超过 32 位有符号整数范围。
  * 因此返回 INT_MIN (−231) 。
  */
+class Solution
+{
+
+    /**
+     * @param String $str
+     * @return Integer
+     */
+    function myAtoi(string $str): int
+    {
+        $max = pow(2, 31) - 1;
+        $min = pow(-2, 31);
+
+        $str = trim($str);
+        $symbol = 1;
+        if (!is_numeric($str[0])) {
+            if ($str[0] == '-') {
+                $symbol = -1;
+            }
+            $str = substr($str, 1);
+        }
+        if (strlen($str) > strlen($max)) {
+            return 0;
+        } elseif (strlen($str) < strlen($max)) {
+            return $symbol * intval($str);
+        }
+        $res = 0;
+        for ($i = 0; $i < strlen($str); $i++) {
+            if ($symbol * pow(10, $i) > $max - $res || $symbol * pow(10, $i) < $min - $res) {
+                return 0;
+            }
+            $res = $res + $symbol * pow(10, $i);
+        }
+        return $res;
+    }
+}
+
+$class = new Solution();
+$str = str_repeat(1, 10);
+echo $class->myAtoi('-' . $str), PHP_EOL;
