@@ -12,9 +12,10 @@
 /**
  * 数字转换为正确的值
  * @param int $j
+ * @param bool $alphabet
  * @return int|string
  */
-function toJ($j = 0, $alphabet = TRUE)
+function toJ($j = 0, $alphabet = true)
 {
     if ($alphabet) {
         return chr(65 + $j);
@@ -120,7 +121,7 @@ function saveUserCommendCode($userId = 0)
      * 零次方情况
      * 非零次方情况
      */
-    $num = $userId+10000;
+    $num = $userId + 10000;
     $powNum = 0;
 
     while ($num >= pow(26, $powNum)) {
@@ -138,6 +139,7 @@ function saveUserCommendCode($userId = 0)
 
     return join('', $data);
 }
+
 //echo toN($num, $base), PHP_EOL;
 $list = [];
 for ($i = 1; $i < 100000; $i++) {
@@ -148,7 +150,8 @@ for ($i = 1; $i < 100000; $i++) {
     $list[$outPut] = $outPut;
     echo $i, ':', $outPut, PHP_EOL;
 }
-echo count($list);die;
+echo count($list);
+die;
 /**
  * 10进制转二进制
  * @param int $num
