@@ -2,40 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f8ba42e-fb14-4785-a01e-60be3b20a621" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/Builder/BuilderInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/设计模式/Builder/BuilderInterface.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/Builder/Director.php" beforeDir="false" afterPath="$PROJECT_DIR$/设计模式/Builder/Director.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/Builder/Parts/Vehicle.php" beforeDir="false" afterPath="$PROJECT_DIR$/设计模式/Builder/Parts/Vehicle.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/Creational/AbstractFactory/AbstractFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/设计模式/Creational/AbstractFactory/AbstractFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/Creational/AbstractFactory/AbstractFactoryTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/设计模式/Creational/AbstractFactory/AbstractFactoryTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/Creational/AbstractFactory/HtmlFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/设计模式/Creational/AbstractFactory/HtmlFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/Creational/AbstractFactory/HtmlText.php" beforeDir="false" afterPath="$PROJECT_DIR$/设计模式/Creational/AbstractFactory/HtmlText.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/Creational/AbstractFactory/JsonFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/设计模式/Creational/AbstractFactory/JsonFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/Creational/AbstractFactory/JsonText.php" beforeDir="false" afterPath="$PROJECT_DIR$/设计模式/Creational/AbstractFactory/JsonText.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/Creational/AbstractFactory/Text.php" beforeDir="false" afterPath="$PROJECT_DIR$/设计模式/Creational/AbstractFactory/Text.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithms/unicode.php" beforeDir="false" afterPath="$PROJECT_DIR$/算法/unicode.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cache/RedisCluster.php" beforeDir="false" afterPath="$PROJECT_DIR$/缓存/RedisCluster.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cache/memcached.php" beforeDir="false" afterPath="$PROJECT_DIR$/缓存/memcached.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cache/queue.php" beforeDir="false" afterPath="$PROJECT_DIR$/缓存/queue.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cache/redis.php" beforeDir="false" afterPath="$PROJECT_DIR$/缓存/redis.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class_attr.php" beforeDir="false" afterPath="$PROJECT_DIR$/对象处理/class_attr.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/craw/shuquge.com/1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/shuquge.com/1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/craw/shuquge.com/book.php" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/shuquge.com/book.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/craw/shuquge.com/chapter.php" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/shuquge.com/chapter.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/craw/shuquge.com/post.php" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/shuquge.com/post.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug/xdebug.php" beforeDir="false" afterPath="$PROJECT_DIR$/调试/xdebug.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/level.php" beforeDir="false" afterPath="$PROJECT_DIR$/异常处理/level.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/golang/hello.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/liaotianshi/from.html" beforeDir="false" afterPath="$PROJECT_DIR$/聊天室/from.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/liaotianshi/to.html" beforeDir="false" afterPath="$PROJECT_DIR$/聊天室/to.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/preg.php" beforeDir="false" afterPath="$PROJECT_DIR$/正则匹配/preg.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sort.php" beforeDir="false" afterPath="$PROJECT_DIR$/算法/sort.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tree/tree.php" beforeDir="false" afterPath="$PROJECT_DIR$/二叉树/tree.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unitTest/demo.php" beforeDir="false" afterPath="$PROJECT_DIR$/单元测试/demo.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xml.php" beforeDir="false" afterPath="$PROJECT_DIR$/对象处理/xml.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/正则匹配/preg.php" beforeDir="false" afterPath="$PROJECT_DIR$/正则匹配/preg.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -252,7 +221,7 @@
       <workItem from="1553763599364" duration="164000" />
       <workItem from="1554213529672" duration="6000" />
       <workItem from="1555555893316" duration="954000" />
-      <workItem from="1594354706837" duration="878000" />
+      <workItem from="1594354706837" duration="6329000" />
     </task>
     <servers />
   </component>
