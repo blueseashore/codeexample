@@ -44,10 +44,10 @@ function bubbleSort(array $list)
     for ($i = 1; $i < $len; $i++) {
         //每轮冒泡需要比较的次数 4->3->2->1
         for ($j = 0; $j < $len - $i; $j++) {
-            if($list[$j+1]<$list[$j]){
+            if ($list[$j + 1] < $list[$j]) {
                 $tmp = $list[$j];
-                $list[$j] = $list[$j+1];
-                $list[$j+1] = $tmp;
+                $list[$j] = $list[$j + 1];
+                $list[$j + 1] = $tmp;
             }
         }
     }
@@ -67,22 +67,21 @@ echo '冒泡排序后:', join(',', bubbleSort($list)), PHP_EOL;
 function selectSort(array $list)
 {
     $length = count($list);
-    $copyList = $list;
     for ($i = 0; $i < $length - 1; $i++) {
         //假设当前位置是最小值的位置
         $min = $i;
         for ($k = $i + 1; $k < $length; $k++) {
-            if ($copyList[$k] < $copyList[$min]) {
+            if ($list[$k] < $list[$min]) {
                 $min = $k;  //寻找最小的是的位置
             }
         }
         if ($min != $i) {   //当前值不是最小值，当前值和最小值位置互换
-            $tmp = $copyList[$i];
-            $copyList[$i] = $copyList[$min];
+            $tmp = $list[$i];
+            $copyList[$i] = $list[$min];
             $copyList[$min] = $tmp;
         }
     }
-    return $copyList;
+    return $list;
 }
 
 echo '选择排序后:', join(',', selectSort($list)), PHP_EOL;
@@ -167,24 +166,45 @@ function quickSort(array $list)
 
 echo '快速排序后:', join(',', quickSort($list)), PHP_EOL;
 
-function test(array $list){
+// 希尔排序
+function shellSort(array $arr)
+{
+    $len = count($arr);
+    for ($gap = floor($len / 2); $gap > 0; $gap = floor($gap /= 2)) {
+        for ($i = $gap; $i < $len; ++$i) {
+            for ($j = $i - $gap; $j >= 0 && $arr[$j + $gap] < $arr[$j]; $j -= $gap) {
+                $temp = $arr[$j];
+                $arr[$j] = $arr[$j + $gap];
+                $arr[$j + $gap] = $temp;
+
+            }
+        }
+    }
+    return $arr;
+}
+
+echo '希尔排序:', join(',', shellSort($list)), PHP_EOL;
+
+function test(array $list)
+{
     $len = count($list);
-    if($len<=1){
+    if ($len <= 1) {
         return $list;
     }
     $base = $list[0];
     $l = [];
     $r = [];
-    for ($i=1;$i<$len;$i++){
-        if($list[$i]>$base){
+    for ($i = 1; $i < $len; $i++) {
+        if ($list[$i] > $base) {
             $r[] = $list[$i];
-        }else{
+        } else {
             $l[] = $list[$i];
         }
     }
     $r = test($r);
     $l = test($l);
 
-    return array_merge($l,[$base],$r);
+    return array_merge($l, [$base], $r);
 }
+
 echo 'test后:', join(',', test($list)), PHP_EOL;
