@@ -291,12 +291,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="firefoxtst" type="FirefoxRemoteDebugType" factoryName="Firefox Remote" port="9000" />
-    <configuration name="Unnamed" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$/../../.." />
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Firefox Remote.firefoxtst" />
-      <item index="1" class="java.lang.String" itemvalue="PHP Built-in Web Server.Unnamed" />
+  <component name="RunManager" selected="Firefox Remote.firefoxtst">
+    <configuration name="firefoxtst" type="FirefoxRemoteDebugType" port="9000">
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$/../../..">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Firefox Remote.firefoxtst" />
+      <item itemvalue="PHP Built-in Web Server.Unnamed" />
     </list>
   </component>
   <component name="ServiceViewManager">

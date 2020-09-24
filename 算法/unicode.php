@@ -237,3 +237,15 @@ function to8($num = 0)
 }
 
 echo '八进制:', to8($num), PHP_EOL;
+
+// ipv4地址转int
+$ip = '192.168.0.101';
+echo ip2long($ip), PHP_EOL;
+$ips = explode('.', $ip);
+// 十进制转二进制
+$num4 = decbin($ips[3]);
+// 二进制转十进制
+$num4 = bindec($ips[3]);
+// 使用位移，然后各部分相加
+$num = ($ips[0] << 24) + ($ips[1] << 16) + ($ips[2] << 8) + ($ips[3]);
+echo $num, PHP_EOL;
